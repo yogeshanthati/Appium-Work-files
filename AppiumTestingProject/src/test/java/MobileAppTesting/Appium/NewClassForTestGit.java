@@ -10,6 +10,8 @@ public class NewClassForTestGit {
 		
 		
 		//second change
+		
+		//final change
 	}
 
 }
