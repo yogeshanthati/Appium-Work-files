@@ -1,0 +1,16 @@
+{
+  "platformName": "Android",
+  "deviceName": "Android Emulator",
+  "app": "C:\\Users\\yogesha\\Desktop\\Appium Workspace\\apk\\selendroid-test-app.apk"
+}
+
+
+             2--->com.android.calculator2:id/digit_2
+             3--->com.android.calculator2:id/digit_3
+             X---->com.android.calculator2:id/op_mul
+             =----->com.android.calculator2:id/eq
+             ans----->com.android.calculator2:id/result
+
+
+
+
